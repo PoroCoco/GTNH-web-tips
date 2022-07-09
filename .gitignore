@@ -1,0 +1,5 @@
+/private
+/env
+/__pycache__
+config.py
+json_tips.json
